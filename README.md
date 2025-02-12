@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Minura👋</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a> •
+  <a href="https://yourportfolio.com/">Portfolio</a> •
+  <a href="mailto:your.email@example.com">Email</a>
+</p>
 
-<!--
-**Minurajay/Minurajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+👨‍💻 Software QA & Automation Engineer | Web Developer | AI Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Passionate about **Software Testing, Automation, and AI-driven Testing**  
+- 🤖 Skilled in **Selenium WebDriver, Playwright, API Testing, Performance Testing**  
+- 🌍 Experienced in **React, Node.js, Python, Java**  
+- 📊 Strong knowledge in **Test Automation, CI/CD, Cloud Computing**  
+- 🎯 Exploring **Security Testing & Advanced AI in Testing**  
+
+---
+
+## 🛠️ Tech Stack  
+### 🔹 Programming Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🔹 Test Automation & QA  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+
+### 🔹 Tools & Cloud  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+## 📂 Featured Projects  
+### 🔹 **Automation & QA**  
+- 🏆 [**Selenium WebDriver Testing**](https://github.com/yourusername/selenium-project) – Automated end-to-end UI tests  
+- 🎯 [**Playwright Automation Suite**](https://github.com/yourusername/playwright-project) – Advanced UI & API testing  
+- 🚀 [**Performance Testing with JMeter**](https://github.com/yourusername/jmeter-performance-testing)  
+
+### 🔹 **Web Development**  
+- 🌍 [**React Election Management System**](https://github.com/yourusername/e-votie)  
+- 📊 [**Dashboard for AI Analytics**](https://github.com/yourusername/ai-dashboard)  
+
+---
+
