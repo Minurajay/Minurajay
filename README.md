@@ -7,16 +7,6 @@
 
 ---
 
-## 🚀 About Me  
-👨‍💻 Software QA & Automation Engineer | Web Developer | AI Enthusiast  
-
-- 🔍 Passionate about **Software Testing, Automation, and AI-driven Testing**  
-- 🤖 Skilled in **Selenium WebDriver, Playwright, API Testing, Performance Testing**  
-- 🌍 Experienced in **React, Node.js, Python, Java**  
-- 📊 Strong knowledge in **Test Automation, CI/CD, Cloud Computing**  
-- 🎯 Exploring **Security Testing & Advanced AI in Testing**  
-
----
 
 ## 🛠️ Tech Stack  
 ### 🔹 Programming Languages  
