@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvs/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvs/?username=Minurajay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
