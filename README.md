@@ -36,17 +36,5 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
----
 
-## 📂 Featured Projects  
-### 🔹 **Automation & QA**  
-- 🏆 [**Selenium WebDriver Testing**](https://github.com/yourusername/selenium-project) – Automated end-to-end UI tests  
-- 🎯 [**Playwright Automation Suite**](https://github.com/yourusername/playwright-project) – Advanced UI & API testing  
-- 🚀 [**Performance Testing with JMeter**](https://github.com/yourusername/jmeter-performance-testing)  
-
-### 🔹 **Web Development**  
-- 🌍 [**React Election Management System**](https://github.com/yourusername/e-votie)  
-- 📊 [**Dashboard for AI Analytics**](https://github.com/yourusername/ai-dashboard)  
-
----
 
